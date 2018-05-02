@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/scullchr/Desktop/React/cloneInsta/node_modules/react-native/React/DevSupport/RCTPackagerConnection.mm \
+  /Users/scullchr/Desktop/React/cloneInsta/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/scullchr/Desktop/React/cloneInsta/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/scullchr/Desktop/React/cloneInsta/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/scullchr/Desktop/React/cloneInsta/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/scullchr/Desktop/React/cloneInsta/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/scullchr/Desktop/React/cloneInsta/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/scullchr/Desktop/React/cloneInsta/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/scullchr/Desktop/React/cloneInsta/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/scullchr/Desktop/React/cloneInsta/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/scullchr/Desktop/React/cloneInsta/node_modules/react-native/React/Base/RCTBundleURLProvider.h \
+  /Users/scullchr/Desktop/React/cloneInsta/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/scullchr/Desktop/React/cloneInsta/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/scullchr/Desktop/React/cloneInsta/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/scullchr/Desktop/React/cloneInsta/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/scullchr/Desktop/React/cloneInsta/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/scullchr/Desktop/React/cloneInsta/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/scullchr/Desktop/React/cloneInsta/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/scullchr/Desktop/React/cloneInsta/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/scullchr/Desktop/React/cloneInsta/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/scullchr/Desktop/React/cloneInsta/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/scullchr/Desktop/React/cloneInsta/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/scullchr/Desktop/React/cloneInsta/node_modules/react-native/React/../Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/scullchr/Desktop/React/cloneInsta/node_modules/react-native/React/../Libraries/WebSocket/RCTSRWebSocket.h
